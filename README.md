@@ -1,4 +1,5 @@
 📚🖖
+[![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=uteee)](https://github.com/uteee/github-readme-stats)
 
 <!--
 **uteee/uteee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
